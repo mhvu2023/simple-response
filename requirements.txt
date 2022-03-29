@@ -89,13 +89,10 @@ platformdirs==2.5.1
 plotly==4.14.3
 prometheus-client==0.9.0
 prompt-toolkit==3.0.14
-pyarrow==3.0.0
 pycparser==2.20
 Pygments==2.7.4
 pymongo==4.0.1
-PyMuPDF==1.18.15
 pyparsing==2.4.7
-PyPDF2==1.26.0
 pyproj==3.0.1
 pyrsistent==0.17.3
 python-dateutil==2.8.1
